@@ -19,3 +19,9 @@
 ![Безопасное состязательное обучение у реки](scene-video-training.png)
 
 ![Храм, исторические предметы и личный выбор](scene-video-temple-memory.png)
+
+## Продолжение серии
+
+![Возвращение Веры к реке и тетради](scene-continuation-river.png)
+
+![Открытая мастерская и передача ремесла](scene-continuation-workshop.png)
